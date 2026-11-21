@@ -16,7 +16,7 @@ uvicorn app.main:app --reload
 ## Тесты
 
 ```bash
-pytest
+python -m pytest
 ```
 
 ## Принятые решения
